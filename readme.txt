@@ -1,56 +1,31 @@
-# 🎵 Music Player Project
+I am a Data Science student (2022–2026) with strong expertise in data analytics, visualization, and machine learning. I am skilled in Tableau, Power BI, Python, SQL, Spark SQL, and image processing. I have hands-on experience in building dashboards, developing machine learning models, and working with databases.
 
-This project is a simple PHP-based music player web application powered by XAMPP and MySQL.  
+Skills
 
-## 🚀 Setup Instructions  
+Programming and Data: Python, SQL, Spark SQL, C++
 
-Follow the steps below to run the project on your local machine:
+Visualization and BI: Tableau, Power BI
 
-1. **Download Files**
-   - Download the project files (including `index.php` and `mp_db.sql`).
+Machine Learning: Scikit-learn, TensorFlow, Image Processing with OpenCV
 
-2. **Install XAMPP**
-   - Download and install [XAMPP](https://www.apachefriends.org/index.html).
-   - Make sure **Apache** and **MySQL** services are running.
+Web and APIs: Flask, PHP, Django (beginner)
 
-3. **Project Setup**
-   - Place the extracted project files inside the `htdocs` folder of your XAMPP installation.  
-     Example:  
-     ```
-     C:\xampp\htdocs\music_player
-     ```
+Other Interests: Cybersecurity, DevOps
 
-4. **Database Setup**
-   - Open [phpMyAdmin](http://localhost/phpmyadmin).
-   - Create a new database with the name:  
-     ```
-     mp_db
-     ```
-   - Import the SQL file:  
-     - Go to **Import** tab.  
-     - Select `mp_db.sql` (inside the provided SQL folder).  
-     - Click **Go** to import tables.
+Projects
 
-5. **Run the Application**
-   - Open your browser and navigate to:  
-     ```
-     http://localhost/music_player
-     ```
+Power BI dashboard for stock exchange analytics with KPIs and trends
 
-## ✅ What I Did
-- Installed and configured **XAMPP server**.  
-- Extracted and placed project files in the `htdocs` directory.  
-- Created a MySQL database `mp_db` and imported `mp_db.sql`.  
-- Ran the project through browser to launch the music player interface.  
+Road condition detection model using ResNet-50
 
-## 📌 Requirements
-- XAMPP (Apache + MySQL)  
-- PHP 7.x or later  
-- Browser (Chrome, Firefox, etc.)  
+Music system database management project with SQL and PHP
 
----
+Flask API deployment of an AutoML model for student depression dataset
 
-✨ Now the music player should be running on your local server.  
+Currently Learning
 
+Advanced Tableau interactivity (parameters and actions)
 
+Cloud and DevOps practices on OCI
 
+Cybersecurity fundamentals
